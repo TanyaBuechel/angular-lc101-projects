@@ -1,0 +1,15 @@
+hr {
+    height: 1px;
+    background-color: black;
+}
+
+.col-3 {
+    column-width: auto;
+
+}
+
+
+
+.container {
+    place-items: center;
+}
